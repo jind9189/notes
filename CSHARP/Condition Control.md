@@ -1,6 +1,3 @@
-
-
-
 #### If Condition
 ```
 if (condition1)
