@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "54c2238f6c7c3071",
+        "id": "2bfd09813527695c",
         "type": "tabs",
         "children": [
           {
-            "id": "cdf7b9f6ec09d8c2",
+            "id": "b218d1f2899527d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "interface",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "87d9d0f7a75e3129",
@@ -90,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSHARP/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Index"
             }
           },
           {
@@ -108,11 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSHARP/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Index"
             }
           },
           {
@@ -150,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CSHARP/Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Index"
             }
           }
         ]
@@ -176,17 +180,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "cdf7b9f6ec09d8c2",
+  "active": "b218d1f2899527d0",
   "lastOpenFiles": [
+    "CSHARP/Index.md",
+    "CSHARP/Extension Method.md",
+    "CSHARP/Pattern Matching.md",
+    "CSHARP/Fields.md",
+    "CSHARP/Nullable.md",
+    "CSHARP/Condition Control.md",
+    "CSHARP/Generic.md",
+    "CSHARP/Objects.md",
+    "CSHARP/Class.md",
+    "CSHARP/Indexer.md",
     "README.md",
     "VoiceLLM",
-    "CSHARP/Objects.md",
-    "CSHARP/Index.md",
-    "CSHARP/Condition Control.md",
     "CSHARP/03 OOPs Concept.md",
-    "CSHARP/Class.md",
     "CSHARP/Constructors.md",
-    "CSHARP/Fields.md",
     "CSHARP/Methods.md",
     "CSHARP/Access Modifier.md",
     "CSHARP/Destructors.md"

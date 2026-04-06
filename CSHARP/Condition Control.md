@@ -17,6 +17,13 @@ else
 
 ```
 
+alternative if syntx
+```
+ condition ? what_if_true : else
+ 
+ condition ?? true
+```
+
 #### Switch case
 ```
 	switch (variable)
